@@ -1,5 +1,5 @@
 
-# ReceiveMessage-SQS
+# SendMessage-SQS
 
 This is a Workshop to understand the funcionality of the AWS SQS integration with AWS Lambda. This Lambda send a message to another Lambda
 ## Authors
